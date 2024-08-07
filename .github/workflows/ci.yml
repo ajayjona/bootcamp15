@@ -1,7 +1,7 @@
 name: django workflow
 on: 
     push:
-        branches:['alia']
+        branches: ['alia']
 
 jobs:
     build:
